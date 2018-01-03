@@ -1,12 +1,21 @@
 img.floaty {
   float: left;
+  margin: 5px;
+  padding: 4px;
 }
 .sidebar{
   width: 30%;
   float: right;
-  background-color: red
+  background-color: red;
+  border: 5px solid blue;
+  padding: 3px;
+  margin: 5px;
 }
 .toobig{
   text-align: center;
   font-size: 99.999%
+}
+.border{
+  background-color: gold;
+  border: 3px solid purple;
 }
