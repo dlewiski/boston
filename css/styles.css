@@ -1,0 +1,12 @@
+img.floaty {
+  float: left;
+}
+.sidebar{
+  width: 30%;
+  float: right;
+  background-color: red
+}
+.toobig{
+  text-align: center;
+  font-size: 99.999%
+}
