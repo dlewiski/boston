@@ -1,7 +1,18 @@
+img{
+  display: block;
+  max-width: 300px;
+  margin: auto;
+}
 img.floaty {
   float: left;
   margin: 5px;
   padding: 4px;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
 }
 .sidebar{
   width: 30%;
@@ -18,4 +29,15 @@ img.floaty {
 .border{
   background-color: gold;
   border: 3px solid purple;
+}
+.band{
+  margin-top: 200px;
+}
+.column{
+  width: 300px;
+  margin: 25px;
+  float: left;
+}
+h3{
+  text-align: center;
 }
